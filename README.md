@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Salum Nambwanga
 
-<!--
-**salum-nambwanga/salum-nambwanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn school and survey data into early warnings and evidence that help education leaders act before students fall behind.
 
-Here are some ideas to get you started:
+I taught Mathematics and Physics in Tanzanian secondary schools for over 15 years. I coordinate statistical reports at Kimadoi Secondary School and hold a Master of Official Statistics from EASTC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on**
+- Education data and early-warning indicators
+- Survey methods and small area estimation
+- Poverty measurement
+
+**Tools:** Stata, R, SPSS, NVivo, Excel
+
+**Projects:** coming soon
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/salum-nambwanga) · [ORCID](https://orcid.org/0009-0005-5229-4666)
